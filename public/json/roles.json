@@ -1,0 +1,32 @@
+[
+     {
+        "roleId":"R001",
+        "role": "Full Stack Developer",
+        "location": "Hyderabad",
+        "dept": "Product Engg"
+    },
+    {
+        "roleId":"R002",
+        "role": "Customer Service Manager",
+        "location": "Bangalore",
+        "dept": "Product Engg"
+    },
+    {
+        "roleId":"R003",
+        "role": "Human Resource Manager",
+        "location": "Hyderabad",
+        "dept": "QA"
+    },
+    {
+        "roleId":"R004",
+        "role": "UI/UX",
+        "location": "Bangalore",
+        "dept": "QA"
+    },
+    {
+        "roleId":"R005",
+        "role": "Senior Developer",
+        "location": "Mumbai",
+        "dept": "Product Engg"
+    }
+]
